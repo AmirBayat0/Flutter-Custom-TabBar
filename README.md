@@ -1,5 +1,4 @@
 # Flutter Custom TabBar
-Flutter Custom TabBar
 ## Preview
 ![Untitled](https://github.com/AmirBayat0/Flutter-Custom-TabBar/assets/91388754/aa21dafa-ea18-46b9-842c-88be892aedd2)
 ## Links
